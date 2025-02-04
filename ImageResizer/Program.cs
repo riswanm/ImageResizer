@@ -14,6 +14,9 @@ namespace ImageResizer
             string sourceImgFolder = GetSourceImageFolder();
             ResizeImages(sourceImgFolder);
 
+            // test change
+            
+
         }
 
         private static void ResizeImages(string sourceImgFolder)
